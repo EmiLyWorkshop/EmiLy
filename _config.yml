@@ -1,0 +1,49 @@
+
+title: Rencontre Luonnaise en Imagerie d'Émission (EmiLy)
+
+social-network-links:
+  email: "voichita.maxim@creatis.insa-lyon.fr"
+  
+
+description: >- # this means to ignore newlines until "baseurl:"
+  The EmiLy workshop aims at bringing together European teams working in emission imaging in order to 
+  create or strengthen connections and collaborations, and to give young researchers the opportunity to 
+  present their work and meet leading researchers in the field in a friendly and restrained environment
+  
+  
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://emilyworkshop.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+navbar-links:
+  About: "/"
+  Program: "program"
+  Steering Committee: "steeringcommittee"
+  
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "./brain-pet.png" 
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+# theme: minima
+theme: beautiful-jekyll-theme
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bundle
+  - _site
+  - vendor
+
+permalink: /:year-:month-:day-:title/
