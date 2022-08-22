@@ -34,7 +34,7 @@ round-avatar: true
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: jekyll-theme-minimal
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
