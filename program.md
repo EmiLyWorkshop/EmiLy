@@ -3,4 +3,4 @@ layout: page
 title: Program
 ---
 
-To be announced 
+<center>To be announced</center>
