@@ -5,7 +5,7 @@
 layout: home
 title: EmiLy 
 subtitle: Rencontre Lyonnaise en Imagerie d'Émission
-
+# <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
 <p style="text-align: center;"> <span style="font-size:larger;">7th of November 2022, INSA Lyon, Lyon, France</span></p>
 
@@ -23,6 +23,16 @@ subtitle: Rencontre Lyonnaise en Imagerie d'Émission
 - Acquisition modeling, tomographic reconstruction
 - Recent advances and applications of deep learning methods  
 - New cutting-edge applications
+
+
+<br /> 
+<br /> 
+<br /> 
+
+
+
+
+<img style="display: block; margin: auto;" alt="logos" src="/images/logos/logos.png"> 
 
 
 
