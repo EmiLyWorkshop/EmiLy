@@ -10,7 +10,7 @@ subtitle: Rencontre Lyonnaise en Imagerie d'Émission
 <p style="text-align: center;"> <span style="font-size:larger;">7th of November 2022, INSA Lyon, Lyon, France</span></p>
 
 
-## Objectives of the workshop
+## Objectives of the Workshop
 
 - Bring together European teams working in emission imaging 
 - Create or strengthen connections and collaborations 
