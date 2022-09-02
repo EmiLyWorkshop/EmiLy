@@ -10,7 +10,7 @@ subtitle: Rencontre Lyonnaise en Imagerie d'Émission
 <p style="text-align: center;"> <span style="font-size:larger;">7th of November 2022, INSA Lyon, Lyon, France</span></p>
 
 
-<img alt="Emily" src="/logoLyon.png"> 
+<img alt="Emily" src="logoLyon.png"> 
 
 
 
