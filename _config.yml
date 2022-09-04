@@ -17,6 +17,7 @@ url: "https://emilyworkshop.github.io/" # the base hostname & protocol for your 
 navbar-links:
   About: "/"
   Program: "program"
+  Registration: "registration"
   Venue: "venue"
   Organizing Committee: "organizingcommittee"
   

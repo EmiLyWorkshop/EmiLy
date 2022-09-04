@@ -22,7 +22,6 @@ subtitle: Rencontre Lyonnaise en Imagerie d'Émission
 
 ## Topics
 
-
 - New developments in detectors
 - Acquisition modeling, tomographic reconstruction
 - Recent advances and applications of deep learning methods  
