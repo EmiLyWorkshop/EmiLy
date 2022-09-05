@@ -3,7 +3,7 @@ layout: page
 title: Venue
 ---
 
-The workshop will take place on the INSA Lyon campus,  4, rue Enrico Fermi, Villeurbanne, 69622 France, Amphitheater DIRAC. 
+The workshop will take place at amphithéâtre Dirac - IP2I Campus de la Doua,  4, rue Enrico Fermi, Villeurbanne, 69622 France. 
 
 
 
