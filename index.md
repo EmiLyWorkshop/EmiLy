@@ -14,10 +14,9 @@ subtitle: Rencontre Lyonnaise en Imagerie d'Émission
 
 - Bring together European teams working in emission imaging 
 - Create or strengthen connections and collaborations 
-- Give young researchers the opportunity to present their work and meet leading researchers in the field in a friendly and restrained environment
+- Give young researchers the opportunity to present their work and meet leading researchers in the field in a friendly environment
 
 ## Topics
-
 
 - New developments in detectors
 - Acquisition modeling, tomographic reconstruction
