@@ -7,7 +7,7 @@ title: EmiLy
 subtitle: Rencontre Lyonnaise en Imagerie d'Émission
 # <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
-<p style="text-align: center;"> <span style="font-size:larger;">7th of November 2022, INSA Lyon, Lyon, France</span></p><img title="a title" alt="Lyon" src="/logoLyon.png"><img style="display: block; margin: auto;" alt="Lyon" src="/logoLyon.png">
+<p style="text-align: center;"> <span style="font-size:larger;">7th of November 2022, INSA Lyon, Lyon, France</span></p><img title="a title" alt="Lyon" src="/logoLyon.png">
 
 
 ## Objectives of the workshop
