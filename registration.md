@@ -11,6 +11,6 @@ Registrations are made via [Indico](https://indico.in2p3.fr/event/27728/). Pleas
 
 We welcome a wide range of topics, from applied mathematics to clinical research. 
 
-We are looking forward to see you at the workshop!
+We are looking forward to seeing you at the workshop!
 
 
