@@ -15,7 +15,7 @@ title: Program
 - **Hong Phuc Vo**, Insitute of Medical Engineering, University of Luebeck, "Statistical Image Reconstruction and Evaluation of a dedicated prostate PET scanner"
 - **Théo Leuliet** CREATIS, Lyon, presentation to be announced
 - **Ludovica Brusaferri** Massachusetts General Hospital, Boston, MA, US, presentation to be announced
-
+- **Kris Thielemans** Institute of Nuclear Medicine, University College London, London, UK, "Using Stochastic Variance Reduction algorithms for PET image reconstruction"
 
 
 
