@@ -28,7 +28,8 @@ subtitle: Rencontre Lyonnaise en Imagerie d'Émission
 <br /> 
 <br /> 
 
-
+This workshop is supported by France Life Imaging, Labex PRIMES, INSIS (CNRS) under project IEA DELTA, and the French National Research Agency (ANR) under grant ANR-20-CE45-0020.
+{: style="text-align: justify"}
 
 <center><img style="display: block; margin: auto;" alt="logos" src="/images/logos/logos.png"></center>
 
