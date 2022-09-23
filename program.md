@@ -14,6 +14,7 @@ title: Program
 - **Hamid Sabet**, RPIL, MGH Boston, "New design for a high performance brain SPECT scanner"
 - **Hong Phuc Vo**, Insitute of Medical Engineering, University of Luebeck, "Statistical Image Reconstruction and Evaluation of a dedicated prostate PET scanner"
 - **Théo Leuliet** CREATIS, Lyon, "A hybrid deep learning method for image reconstruction and blind deconvolution: application to TOF PET intraoperative imaging"
+- **Guillaume Corda** King's College London, London, UK, "Single-modality supervised PET-MR reconstruction"
 - **Ludovica Brusaferri** Massachusetts General Hospital, Boston, MA, US, presentation to be announced
 - **Kris Thielemans** Institute of Nuclear Medicine, University College London, London, UK, "Using Stochastic Variance Reduction algorithms for PET image reconstruction"
 
