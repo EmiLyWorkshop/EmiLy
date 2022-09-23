@@ -13,7 +13,8 @@ title: Program
 - **Brahim Mehadji**, Aix Marseille Univ, APHM, Hôpital de la Timone et Nord, service de médecine nucléaire, Marseille, France, "Design study of an electronically collimated Compton surgery probe for the detection of annihilation photons"
 - **Hamid Sabet**, RPIL, MGH Boston, "New design for a high performance brain SPECT scanner"
 - **Hong Phuc Vo**, Insitute of Medical Engineering, University of Luebeck, "Statistical Image Reconstruction and Evaluation of a dedicated prostate PET scanner"
-- **Théo Leuliet** CREATIS, Lyon, presentation to be announced
+- **Théo Leuliet** CREATIS, Lyon, France, "A hybrid deep learning method for image reconstruction and blind deconvolution: application to TOF PET intraoperative imaging"
+- **Guillaume Corda** King's College London, London, UK, "Single-modality supervised PET-MR reconstruction"
 - **Ludovica Brusaferri** Massachusetts General Hospital, Boston, MA, US, presentation to be announced
 - **Kris Thielemans** Institute of Nuclear Medicine, University College London, London, UK, "Using Stochastic Variance Reduction algorithms for PET image reconstruction"
 
