@@ -18,7 +18,7 @@ title: Program
 - 14:20 - **Théo Leuliet**, CREATIS, Lyon, "A hybrid deep learning method for image reconstruction and blind deconvolution : application to TOF-PET intraoperative imaging"
 - 14:45 - **Guillaume Corda** King's College London, "Single-modality supervised PET-MR reconstruction"
 - 15:10 - ***Coffee break***
-- 15:35 - **Jorge Roser**, Institut de Fisica Corpuscular, "Last developments and applications of the MACACO III Compton camera"
+- 15:35 - **Jorge Roser**, Institut de Fisica Corpuscular, Valencia, "Last developments and applications of the MACACO III Compton camera"
 - 16:00 - **Ludovica Brusaferri (virtual)**, Massachusetts General Hospital, "Imaging neuroinflammation with [11C]PBR28 PET" 
 - 16:25 - **Hamid Sabet(virtual)**, RPIL, Massachusetts General Hospital,, "New design for a high performance brain SPECT scanner"
 - 16h50 - ***End of the workshop***
