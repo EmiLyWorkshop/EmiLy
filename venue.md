@@ -3,7 +3,7 @@ layout: page
 title: Venue
 ---
 
-The workshop will take place at amphithéâtre Dirac - IP2I Campus de la Doua,  4, rue Enrico Fermi, Villeurbanne, 69622 France (Université Lyon 1 tram station).  
+The workshop will take place at amphithéâtre Dirac - IP2I Campus de la Doua,  4, rue Enrico Fermi, Villeurbanne, 69622 France (Université Lyon 1 Tram Station).  
 
 From Part-Dieu trainstation take tram T1 towards IUT Feyssine (cf. map below).
 
