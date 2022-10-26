@@ -5,13 +5,13 @@ title: Program
 
 
 - 9:15 - ***Introduction of the workshop***
-- 9:20 - **Yannick Boursier**, CPPM Marseille, "A mathematical framework for Prompt-Gamma Time Imaging (PGTI) with TIARA"
+- 9:20 - **Antoine Robert**, CREATIS, Lyon, "Exponential Data Consistency Conditions for Patient Motion Detection and Correction in SPECT"
 - 9:45 - **Matias Courdurier**, Facultad de Matematica, Pontificia Universidad Catolica de Chile, "Mathematical model and stability analysis for an inverse problem in light sheet fluorescence microscopy"
 - 10:10 - **Kris Thielemans**, Institute of Nuclear Medicine, University College London, London, UK, "Using Stochastic Variance Reduction algorithms for PET image reconstruction"
 - 10:35 - ***Coffee break***
 - 11:00 - **Florent Sureau**, BioMaps Paris Saclay, "A Bregman majorization-minimization framework for PET image reconstruction" 
-- 11:25 - **Antoine Robert**, CREATIS, Lyon, presentation to be announced
-- 11:50 -  **Hong Phuc Vo**, Insitute of Medical Engineering, University of Luebeck, "Statistical Image Reconstruction and Evaluation of a dedicated prostate PET scanner"
+- 11:25 - **Yannick Boursier**, CPPM Marseille, "A mathematical framework for Prompt-Gamma Time Imaging (PGTI) with TIARA"
+- 11:50 - **Hong Phuc Vo**, Insitute of Medical Engineering, University of Luebeck, "Statistical Image Reconstruction and Evaluation of a dedicated prostate PET scanner"
 - 12:15 - ***Lunch break***
 - 13:30 - **Dominique Yvon**, CEA/IRFU & BioMaps, "The ClearMind Project"
 - 13:55 - **Mehdi Latif**, LS2N Nantes, "Challenges and opportunities of three-photon tomographic reconstruction for the XEnon Medical Imaging System (XEMIS2)"
